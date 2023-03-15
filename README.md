@@ -1,0 +1,1 @@
+This is a Discord bot I was planning to create
